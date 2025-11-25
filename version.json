@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "1.2.1",
   "download_url": "https://drive.google.com/uc?export=download&id=16i3fTxN-PHIg8zDnbYVeChl41Xk_DhuG",
-  "message": "• 업데이트 버전 확인 및 다운로드 링크 제공 팝업 구현"
+  "message": "• 도움말 추가 /n • tr 불러올 때 필요없는 sheet이외에 모두 호출"
 }
