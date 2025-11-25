@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "download_url": "https://drive.google.com/uc?export=download&id=1PKc4BRfAa7P0F0mGUhL-c4fqOeGt73RK",
-  "message": "• 도움말 추가 \n• tr 불러올 때 필요없는 sheet이외에 모두 호출\n• C-V는 그래프만 호출 가능 분석 기능은 추후 추가 예정"
+  "version": "1.2.2",
+  "download_url": "https://drive.google.com/uc?export=download&id=1JDE8V9MWw9Fxd0A_ZVAo97YiXjNTs2Uc",
+  "message": "• TR 및 산포 SS 계산 오류 수정 \n• -\n• -"
 }
